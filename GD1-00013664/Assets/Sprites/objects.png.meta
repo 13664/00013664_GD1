@@ -105,16 +105,16 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: objects_0
+      name: objects_1
       rect:
         serializedVersion: 2
-        x: 130
-        y: 96
+        x: 192
+        y: 98
         width: 31
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+        height: 30
+      alignment: 9
+      pivot: {x: 0.4688201, y: 0.5302332}
+      border: {x: 31, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -136,7 +136,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      objects_0: -1400429717
+      objects_1: -1400429717
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
